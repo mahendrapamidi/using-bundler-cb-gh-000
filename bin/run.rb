@@ -1,5 +1,5 @@
 Hashie
-Sinatra 
+Sinatra
 Octokit
 Pry
 AwesomePrint
