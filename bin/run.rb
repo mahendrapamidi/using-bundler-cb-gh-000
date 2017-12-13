@@ -1,5 +1,5 @@
 Hashie
-Sinatra
+Sinatra,"1.4.4"
 Octokit
 Pry
 AwesomePrint
